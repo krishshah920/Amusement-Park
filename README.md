@@ -1,5 +1,13 @@
 # Amusement-Park
-A project on Computer Graphics and Visualization. Made with C++ using openGl Library.
+A project on Computer Graphics and Visualization. Made using openGl Library.
+
+<h3>
+	<ul>
+		<li>Language: C++</li>
+		<li>Library: OpenGL</li>
+		<li>Code Editor: Visual Studio 2019</li>
+	</ul>
+</h3>
 
 This project is like an amusement park where a child can enjoy some rides.
 
