@@ -1,15 +1,13 @@
 # Amusement-Park
 A project on Computer Graphics and Visualization. Made with C++ using openGl Library.
-# AmusementPark
-`-My project is like an amusement park where a child can enjoy some rides.
+
+This project is like an amusement park where a child can enjoy some rides.
 
 Here are some instruction to run the project.
 
 
-
 Girls Movement:
 The girl will move with the "up, down, left, and right" arrow key.
-
 
 
 Swing (Dolna):
