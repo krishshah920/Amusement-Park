@@ -20,6 +20,7 @@ The girl will move with the "up, down, left, and right" arrow key.
 
 -Swing (Dolna):
 The girl will get onto the swing by pressing "u", will enjoy and can get down from the swing by pressing "d".
+<img src="./Screenshots/swing.png">
 
 
 
