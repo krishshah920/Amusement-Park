@@ -14,11 +14,11 @@ This project is like an amusement park where a child can enjoy some rides.
 Here are some instruction to run the project.
 
 
--Girls Movement:
+1. Girls Movement:
 The girl will move with the "up, down, left, and right" arrow key.
 
 
--Swing (Dolna):
+<strong>2. Swing (Dolna):</strong>
 The girl will get onto the swing by pressing "u", will enjoy and can get down from the swing by pressing "d".
 <img src="https://github.com/krishshah920/Amusement-Park/blob/main/Screenshot/swing.png">
 
